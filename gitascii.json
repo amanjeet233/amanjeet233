@@ -1,0 +1,158 @@
+{
+  "widgets": [
+    {
+      "instanceId": "widget_1789065675099",
+      "widgetId": "controlplane-command-deck",
+      "name": "Controlplane-command-deck Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 300
+      },
+      "config": {
+        "layoutType": "hero",
+        "accentColor": "#00A7D1",
+        "customTitle": "",
+        "repoSortBy": "updated",
+        "animationType": "slide-down",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "instanceId": "widget_1789059843935",
+      "widgetId": "codeweb-social-badge",
+      "name": "Codeweb-social-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 872
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {
+        "platforms": [
+          "github",
+          "linkedin",
+          "x",
+          "instagram",
+          "portfolio",
+          "gmail",
+          "discord"
+        ],
+        "hideBorder": false,
+        "hideDecorations": false,
+        "renderMode": "multi"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1789061331317",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
+      "position": {
+        "x": 0,
+        "y": 940
+      },
+      "size": {
+        "width": 800,
+        "height": 256
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1789062841258",
+      "widgetId": "codeweb-minimal-badge",
+      "name": "Codeweb-minimal-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 1220
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {
+        "animationType": "slide-down",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1789065839716",
+      "widgetId": "codeweb-retro-grid",
+      "name": "Codeweb-retro-grid Widget",
+      "position": {
+        "x": 0,
+        "y": 324
+      },
+      "size": {
+        "width": 800,
+        "height": 260
+      },
+      "config": {
+        "selectedTechs": [
+          "js",
+          "java",
+          "ts",
+          "html",
+          "py",
+          "spring",
+          "mysql",
+          "git",
+          "github",
+          "react",
+          "vercel"
+        ],
+        "animationType": "slide-down",
+        "animationPreviewKey": 2
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
+    },
+    {
+      "instanceId": "widget_1789065955664",
+      "widgetId": "streak-stats",
+      "name": "Streak-stats Widget",
+      "position": {
+        "x": 148,
+        "y": 608
+      },
+      "size": {
+        "width": 504,
+        "height": 240
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native",
+    "transparentBackground": false
+  },
+  "templateId": "native"
+}
