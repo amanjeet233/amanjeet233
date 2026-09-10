@@ -1,7 +1,9 @@
- <a href="http://localhost:3000">
-  <img
-    src="http://localhost:3000/api/amanjeet233?v=1789066240937"
-    alt="GitAscii Widget"
-    width="100%"
-  />
-</a>
+<div align="center">
+  <a href="https://gitascii.com">
+    <img
+      src="https://gitascii.com/api/amanjeet233?v=1789066538795"
+      alt="GitAscii Profile for amanjeet233"
+      width="100%"
+    />
+  </a>
+</div>
